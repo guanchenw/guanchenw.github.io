@@ -9,6 +9,7 @@ labels:
   - Digital Design
   - Logic Operations
   - Arithmetic operations
+  - Verilog
 summary: "The ALU project involved designing and implementing an arithmetic logic unit capable of performing basic arithmetic and logic operations as part of a digital design course."
 ---
 
