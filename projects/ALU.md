@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ALU/alu-simple.svg
 title: "Arithmetic Logic Unit (ALU)"
 date: 2025
 published: true
@@ -13,7 +13,8 @@ summary: "The ALU project involved designing and implementing an arithmetic logi
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ALU/comparison.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/alu_final.png" class="img-thumbnail" >
 </div>
 
 An arithmetic logic unit (ALU) is a fundamental digital circuit used in processors to perform arithmetic and logic operations. For this project, the task was to design and implement a 4-bit ALU from the ground up, integrating multiple functions such as addition, subtraction, multiplication, division, shifting, XOR, and comparison. The project emphasized both hardware design and digital logic concepts, requiring simulation and testing to ensure that the ALU performed each operation correctly. In addition to the hardware design, we were also required to write Verilog code that mirrored the circuit, implementing the same operations programmatically.
