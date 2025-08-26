@@ -22,7 +22,8 @@ An arithmetic logic unit (ALU) is a fundamental digital circuit used in processo
 
 To complete the project, I started by creating and testing each building block, including full adders, full subtractors, multipliers, dividers, and logic gates, many of which I implemented using truth tables and ROM-based logic. I then combined these blocks into a single ALU using enable pins, a decoder for operation selection, shared output lines, and overflow, carry, and zero detection logic. After validating the full design in simulation, I implemented the ALU in Verilog, writing a clean, modular hardware description and a comprehensive testbench to exhaustively verify each operation. This process gave me hands-on experience in circuit design, schematic integration, Verilog coding, simulation workflows, and systematic debugging, closely mirroring real-world hardware design practices.
 
-Here is part of design code to define operations that illustrates the verilog part of the project:
+Here is a portion of the design code that defines operations and illustrates the Verilog part of the project:
+
 ```verilog
 4'b0000: begin // F = 2 x A with a flag for overflow
     F = A << 1;
@@ -39,7 +40,7 @@ end
 end
 ```
 
-Here is part of testbench stimulus code that illustrates the verilog part of the project:
+Here is a part of the testbench stimulus code that illustrates the Verilog portion of the project:
 
 ```verilog
 initial begin
