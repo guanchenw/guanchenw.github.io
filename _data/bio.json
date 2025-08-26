@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Guanchen Wu",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "file:///Users/wug/Documents/profile.jpg",
+    "email": "wug@hawaii.edu",
+    "phone": "808-784-8088",
+    "website": "https://guanchenw.github.io",
+    "summary": "I am a BAM student in Electrophysics in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in May, 2027 with my Master's Degree.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "guanchenw", "url": "http://github.com/guanchenw" },
+      { "network": "linkedin", "username": "Guanchen Wu", "url": "http://linkedin.com/in/guanchen-wu2004" },
+      { "network": "twitter", "username": "guanchenw", "url": "http://twitter.com/guanchenw" },
+      { "network": "instagram", "username": "guanchenw", "url": "http://instagram.com/guanchenw" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Integrated Circuit Design" },
+    { "name": "Radio Frequency" },
+    { "name": "Aerospace" },
+    { "name": "Semiconductor" }
   ],
   "skills": [
     {
