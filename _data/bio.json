@@ -2,16 +2,16 @@
   "basics": {
     "name": "Guanchen Wu",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://media.licdn.com/dms/image/v2/D5603AQGbPLS-hx9h4g/profile-displayphoto-shrink_800_800/B56ZRSMhZ4G8Ac-/0/1736545802449?e=1759363200&v=beta&t=IiEkGmgdEhU1_Bp8FGaIaXFRoy2oVk2TH5H58Owa7pE",
     "email": "wug@hawaii.edu",
     "phone": "808-784-8088",
     "website": "https://guanchenw.github.io",
     "summary": "I am a BAM student in Electrophysics in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in May, 2027 with my Master's Degree.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "guanchenw", "url": "http://github.com/guanchenw" },
+      { "network": "github", "username": "guanchenw", "url": "https://media.licdn.com/dms/image/v2/D5603AQGbPLS-hx9h4g/profile-displayphoto-shrink_800_800/B56ZRSMhZ4G8Ac-/0/1736545802449?e=1759363200&v=beta&t=IiEkGmgdEhU1_Bp8FGaIaXFRoy2oVk2TH5H58Owa7pE" },
       { "network": "linkedin", "username": "Guanchen Wu", "url": "http://linkedin.com/in/guanchen-wu2004" },
-      { "network": "twitter", "username": "guanchenw", "url": "http://twitter.com/guanchenw" },
+      { "network": "twitter", "username": "guanchenw", "url": "http://twitter.com/gcwuuuu" },
       { "network": "instagram", "username": "guanchenw", "url": "http://instagram.com/gcwuuuu" }
     ]
   },
