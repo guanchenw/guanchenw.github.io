@@ -10,7 +10,7 @@ labels:
   - Wireless Communication
   - Renewable Energy
   - UH Manoa
-summary: ""The Smart Campus Energy Lab (SCEL) at UH Manoa is a student-led lab dedicated to providing an inclusive learning environment for undergraduate and graduate students. It fosters technical skills such as software engineering, circuit design, and machine learning, while also emphasizing soft skills including communication, teamwork, project management, and leadership."
+summary: "The Smart Campus Energy Lab (SCEL) at UH Manoa is a student-led lab dedicated to providing an inclusive learning environment for undergraduate and graduate students. It fosters technical skills such as software engineering, circuit design, and machine learning, while also emphasizing soft skills including communication, teamwork, project management, and leadership."
 ---
 
 <div class="text-center p-4">
