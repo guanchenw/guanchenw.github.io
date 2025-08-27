@@ -14,8 +14,8 @@ summary: "The Smart Campus Energy Lab (SCEL) at UH Manoa is a student-led lab de
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/SCELbumbleebee/beeconfig.png">
-  <img width="600px" src="../img/SCELbumbleebee/results.png">
+  <img width="400px" src="../img/SCELbumblebee/beeconfig.png">
+  <img width="400px" src="../img/SCELbumblebee/results.png">
 </div>
 
 In 2012, the University of Hawaii at Manoa (UHM) paid $35 million for electricity, highlighting the need for energy efficiency improvements. To address this concern and align with Hawaii’s Renewable Portfolio Standard (RPS) goal of reaching 100% renewable energy by 2045, the Smart Energy Campus Lab (SCEL) is developing a wireless environmental sensor network to collect data on various weather characteristics across the UHM campus.
