@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/SCELbumblebee/logo.png
-title: "Vacay"
+title: "Smart Campus Energy Lab (SCEL)"
 date: 2025
 published: true
 labels:
@@ -29,4 +29,4 @@ I am a member of SCEL’s Team Bumblebee as part of fulfilling my Engineering X9
 
 Specifically, I configured and set up XBee modules, including XBee3, S2C Pro, and 3 Pro. Among these, the 3 Pro module demonstrated the best performance. Testing involved two Arduino setups: one acting as a coordinator to receive packets and the other as a router to send packets. The packets were simulated within the Arduino for configuration and performance testing. Once all teams have completed their designated tasks, we will transition to using the actual data collected by the hardware team’s sensor modules.
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+If you are interested in the project, you can learn more at [Smart Campus Energy Lab Wiki](https://wiki.scel-hawaii.org/doku.php?id=start).
