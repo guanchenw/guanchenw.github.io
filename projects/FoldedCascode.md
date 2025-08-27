@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FoldedCascoded/icdesign.jpeg
+image: img/FoldedCascode/icdesign.jpeg
 title: "Folded Cascoded OTA"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "An op-amp design completed under mentorship in the summer of 2025 using Cadence Virtuoso software."
 ---
 
-<img class="img-fluid" src="../img/FoldedCascoded/schematicdesign.png">
+<img class="img-fluid" src="../img/FoldedCascode/schematicdesign.png">
 
 Cadence Virtuoso is a widely used software suite in both academia and industry for analog and mixed-signal circuit design. During the summer, I was mentored in designing a Folded Cascode Operational Transconductance Amplifier (OTA), a topology known for its high gain and wide output swing, making it well-suited for high-precision analog applications.
 
