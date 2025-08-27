@@ -1,28 +1,21 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
-published: false
+image: img/FoldedCascoded/icdesign.jpeg
+title: "Folded Cascoded OTA"
+date: 2025
+published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - IC Design
+  - Cadence Virtuoso
+  - Operational Amplifiers
+summary: "An op-amp design completed under mentorship in the summer of 2025 using Cadence Virtuoso software."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/FoldedCascoded/schematicdesign.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Cadence Virtuoso is a widely used software suite in both academia and industry for analog and mixed-signal circuit design. During the summer, I was mentored in designing a Folded Cascode Operational Transconductance Amplifier (OTA), a topology known for its high gain and wide output swing, making it well-suited for high-precision analog applications.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+As part of the project, I began by creating a schematic based on an original design provided to me. The main task involved determining appropriate transistor sizes to achieve specific performance targets: a voltage gain greater than 80 dB and a bandwidth exceeding 2 MHz.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+After finalizing the schematic, I created a corresponding symbol for easier integration into larger designs. The final step involved developing the layout, ensuring proper matching, routing, and adherence to design rules. The completed layout successfully passed both Design Rule Check (DRC) and Layout Versus Schematic (LVS) verification, confirming that it met all design specifications and was consistent with the schematic.
