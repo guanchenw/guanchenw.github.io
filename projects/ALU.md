@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ALU/alu-simple.svg
+image: <img src="img/ALU/alu-simple.svg" style="display:block; margin:auto;" alt="ALU Simple">
 title: "Arithmetic Logic Unit (ALU)"
 date: 2023
 published: true
