@@ -1,28 +1,32 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/SCELbumblebee/logo.png
 title: "Vacay"
-date: 2015
-published: false
+date: 2025
+published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Relay Node
+  - Wireless Communication
+  - Renewable Energy
+  - UH Manoa
+summary: ""The Smart Campus Energy Lab (SCEL) at UH Manoa is a student-led lab dedicated to providing an inclusive learning environment for undergraduate and graduate students. It fosters technical skills such as software engineering, circuit design, and machine learning, while also emphasizing soft skills including communication, teamwork, project management, and leadership."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/SCELbumbleebee/beeconfig.png">
+<img class="img-fluid" src="../img/SCELbumbleebee/results.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<div class="text-center p-4">
+  <img width="400px" src="../img/SCELbumbleebee/beeconfig.png">
+  <img width="600px" src="../img/SCELbumbleebee/results.png">
+</div>
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In 2012, the University of Hawaii at Manoa (UHM) paid $35 million for electricity, highlighting the need for energy efficiency improvements. To address this concern and align with Hawaii’s Renewable Portfolio Standard (RPS) goal of reaching 100% renewable energy by 2045, the Smart Energy Campus Lab (SCEL) is developing a wireless environmental sensor network to collect data on various weather characteristics across the UHM campus.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The existing sensor network is limited by its range, restricting flexibility in sensor module deployment. To overcome this limitation, Bumblebee, the second-generation communications module, was designed to relay data collected by other sensor modules. Team Bumblebee’s goal is to design a relay node that significantly extends the coverage of the current sensor network.
 
-Here is some example code to illustrate Simple Schema use:
+I am a member of SCEL’s Team Bumblebee as part of fulfilling my Engineering X96 requirements. During ECE 296, I completed tutorials and was introduced to SCEL’s various teams. In ECE 396 and 496, I actively contributed to Team Bumblebee, which focused on relay communication. Our responsibilities included establishing and maintaining wireless connections between the hardware team’s sensor boards.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+Specifically, I configured and set up XBee modules, including XBee3, S2C Pro, and 3 Pro. Among these, the 3 Pro module demonstrated the best performance. Testing involved two Arduino setups: one acting as a coordinator to receive packets and the other as a router to send packets. The packets were simulated within the Arduino for configuration and performance testing. Once all teams have completed their designated tasks, we will transition to using the actual data collected by the hardware team’s sensor modules.
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
