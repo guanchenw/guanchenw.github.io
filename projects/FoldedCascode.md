@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FoldedCascode/icdesign.jpeg
+image: img/FoldedCascode/icdesign.avif
 title: "Folded Cascoded OTA"
 date: 2025
 published: true
